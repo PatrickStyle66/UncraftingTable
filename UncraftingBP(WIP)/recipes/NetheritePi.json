@@ -1,0 +1,20 @@
+{
+    	"format_version": 1.12,
+    	"minecraft:recipe_shapeless": {
+    		"description": {
+    			"identifier": "minecraft:nether_from_pi"
+    		},
+    		"tags": [
+    			"uncraftingtable"
+    		],
+    		"ingredients":[
+    			{
+    				"item": "minecraft:netherite_pickaxe"
+    			}
+    		],
+    		"result": {
+    			"item": "minecraft:netherite_ingot",
+    			"count": 1
+    		}
+    	}
+    }

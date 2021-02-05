@@ -1,0 +1,20 @@
+{
+    	"format_version": 1.12,
+    	"minecraft:recipe_shapeless": {
+    		"description": {
+    			"identifier": "minecraft:wood_from_hoe"
+    		},
+    		"tags": [
+    			"uncraftingtable"
+    		],
+    		"ingredients":[
+    			{
+    				"item": "minecraft:wooden_hoe"
+    			}
+    		],
+    		"result": {
+    			"item": "minecraft:planks",
+    			"count": 2
+    		}
+    	}
+    }

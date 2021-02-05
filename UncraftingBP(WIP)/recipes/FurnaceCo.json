@@ -1,0 +1,20 @@
+{
+    	"format_version": 1.12,
+    	"minecraft:recipe_shapeless": {
+    		"description": {
+    			"identifier": "minecraft:cobble_from_furnace"
+    		},
+    		"tags": [
+    			"uncraftingtable"
+    		],
+    		"ingredients":[
+    			{
+    				"item": "minecraft:furnace"
+    			}
+    		],
+    		"result": {
+    			"item": "minecraft:cobblestone",
+    			"count": 8
+    		}
+    	}
+    }

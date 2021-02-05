@@ -1,0 +1,20 @@
+{
+    	"format_version": 1.12,
+    	"minecraft:recipe_shapeless": {
+    		"description": {
+    			"identifier": "minecraft:leather_from_boots"
+    		},
+    		"tags": [
+    			"uncraftingtable"
+    		],
+    		"ingredients":[
+    			{
+    				"item": "minecraft:leather_boots"
+    			}
+    		],
+    		"result": {
+    			"item": "minecraft:leather",
+    			"count": 4
+    		}
+    	}
+    }

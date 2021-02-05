@@ -1,0 +1,20 @@
+{
+    	"format_version": 1.12,
+    	"minecraft:recipe_shapeless": {
+    		"description": {
+    			"identifier": "minecraft:iron_from_cart"
+    		},
+    		"tags": [
+    			"uncraftingtable"
+    		],
+    		"ingredients":[
+    			{
+    				"item": "minecraft:minecart"
+    			}
+    		],
+    		"result": {
+    			"item": "minecraft:iron_ingot",
+    			"count": 5
+    		}
+    	}
+    }

@@ -1,0 +1,28 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:block": {
+    "description": {
+      "identifier": "unc:uncraftingtable",
+      "register_to_creative_menu": true,
+      "is_experimental": true,
+      "category": "items"
+    },
+        "components": {
+			"minecraft:crafting_table": {
+			    "custom_description": "Uncraft",
+                "grid_size": 3,
+                "crafting_tags": [
+                    "uncraftingtable"
+                ]
+            },
+			"minecraft:destroy_time": 0.5,
+			"minecraft:explosion_resistance": 20,
+			"minecraft:block_light_absorption": 16,
+			"minecraft:unit_cube": {},
+			"minecraft:map_color": "#818186",
+			"minecraft:block_light_emission": 0
+
+			
+        }
+    }
+}

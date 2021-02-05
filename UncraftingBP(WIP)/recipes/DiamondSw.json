@@ -1,0 +1,26 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "minecraft:diamond_from_sword"
+		},
+		"tags": [
+			"uncraftingtable"
+		],
+		"ingredients":[
+			{
+				"item": "minecraft:diamond_sword"
+			}
+		],
+		"result": [{
+			"item": "minecraft:diamond",
+			"count": 2
+		},
+		{
+			"item": "minecraft:stick",
+			"count": 1
+		}
+		
+		]
+	}
+}	

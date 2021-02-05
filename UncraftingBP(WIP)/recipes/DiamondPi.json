@@ -1,0 +1,25 @@
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "minecraft:diamond_from_pickaxe"
+		},
+		"tags": [
+			"uncraftingtable"
+		],
+		"ingredients":[
+			{
+				"item": "minecraft:diamond_pickaxe"
+			}
+		],
+		"result": [{
+			"item": "minecraft:diamond",
+			"count": 3
+		},
+		{
+			"item": "minecraft:stick",
+			"count": 2
+		}
+		]
+	}
+}	

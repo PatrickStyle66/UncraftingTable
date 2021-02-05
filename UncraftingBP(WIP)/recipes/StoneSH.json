@@ -1,0 +1,20 @@
+{
+    	"format_version": 1.12,
+    	"minecraft:recipe_shapeless": {
+    		"description": {
+    			"identifier": "minecraft:cobble_from_shovel"
+    		},
+    		"tags": [
+    			"uncraftingtable"
+    		],
+    		"ingredients":[
+    			{
+    				"item": "minecraft:stone_shovel"
+    			}
+    		],
+    		"result": {
+    			"item": "minecraft:cobblestone",
+    			"count": 1
+    		}
+    	}
+    }

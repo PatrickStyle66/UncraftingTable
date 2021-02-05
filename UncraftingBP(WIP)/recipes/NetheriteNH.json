@@ -1,0 +1,20 @@
+{
+    	"format_version": 1.12,
+    	"minecraft:recipe_shapeless": {
+    		"description": {
+    			"identifier": "minecraft:netherite_from_helmet"
+    		},
+    		"tags": [
+    			"uncraftingtable"
+    		],
+    		"ingredients":[
+    			{
+    				"item": "minecraft:netherite_helmet"
+    			}
+    		],
+    		"result": {
+    			"item": "minecraft:netherite_ingot",
+    			"count": 1
+    		}
+    	}
+    }

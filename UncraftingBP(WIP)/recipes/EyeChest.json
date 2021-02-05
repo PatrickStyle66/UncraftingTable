@@ -1,0 +1,26 @@
+{
+"format_version": 1.12,
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eye_from_chest"
+        },
+        "tags": [
+            "uncraftingtable"
+        ],
+        "pattern": [
+            "   ",
+            " X ",
+            "   "
+        ],
+        "key": {
+            
+            "X": {
+                "item": "minecraft:ender_chest"
+            }
+        },
+        "result": {
+            "item": "minecraft:ender_eye",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "unc:uncraftingtable_rec"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"XXX",
+			"X#X",
+			"XXX"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:netherite_ingot"
+			},
+			"X": {
+				"item": "minecraft:crafting_table"
+			}
+		},
+		"result": {
+			"item": "unc:uncraftingtable",
+			"data": 0,
+			"count": 1
+		}
+	}
+}

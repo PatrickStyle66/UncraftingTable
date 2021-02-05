@@ -1,0 +1,28 @@
+{
+"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wool_from_bed8"
+		},
+		"tags": [
+			"uncraftingtable"
+		],
+		"pattern": [
+			"   ",
+			"X  ",
+			"   "
+		],
+		"key": {
+			
+			"X": {
+				"item": "minecraft:bed",
+				"data": 8
+			}
+		},
+		"result": {
+			"item": "minecraft:wool",
+			"count": 3,
+			"data": 8
+		}
+	}
+}

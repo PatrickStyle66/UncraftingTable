@@ -1,0 +1,20 @@
+{
+    	"format_version": 1.12,
+    	"minecraft:recipe_shapeless": {
+    		"description": {
+    			"identifier": "minecraft:iron_from_hoe"
+    		},
+    		"tags": [
+    			"uncraftingtable"
+    		],
+    		"ingredients":[
+    			{
+    				"item": "minecraft:iron_hoe"
+    			}
+    		],
+    		"result": {
+    			"item": "minecraft:iron_ingot",
+    			"count": 2
+    		}
+    	}
+    }

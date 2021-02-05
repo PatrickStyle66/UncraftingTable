@@ -1,0 +1,20 @@
+{
+    	"format_version": 1.12,
+    	"minecraft:recipe_shapeless": {
+    		"description": {
+    			"identifier": "minecraft:gold_from_rail"
+    		},
+    		"tags": [
+    			"uncraftingtable"
+    		],
+    		"ingredients":[
+    			{
+    				"item": "minecraft:golden_rail"
+    			}
+    		],
+    		"result": {
+    			"item": "minecraft:gold_ingot",
+    			"count": 6
+    		}
+    	}
+    }

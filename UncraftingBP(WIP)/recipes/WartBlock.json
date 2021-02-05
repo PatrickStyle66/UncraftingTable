@@ -1,0 +1,20 @@
+{
+    	"format_version": 1.12,
+    	"minecraft:recipe_shapeless": {
+    		"description": {
+    			"identifier": "minecraft:wart_from_block"
+    		},
+    		"tags": [
+    			"uncraftingtable"
+    		],
+    		"ingredients":[
+    			{
+    				"item": "minecraft:nether_wart_block"
+    			}
+    		],
+    		"result": {
+    			"item": "minecraft:nether_wart",
+    			"count": 9
+    		}
+    	}
+    }

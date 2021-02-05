@@ -1,0 +1,21 @@
+{
+	"format_version":[
+      1,
+      1,
+      0
+   ],
+
+
+"unc:uncraftingtable":{
+      "sound":"wood",
+      "textures":{
+         "down":"blinds_oak",
+         "east":"uncrafting_side2",
+         "north":"uncrafting_side",
+         "south":"uncrafting_side",
+         "up":"uncrafting_top",
+         "west":"uncrafting_side2" 
+
+      }
+ }
+}      

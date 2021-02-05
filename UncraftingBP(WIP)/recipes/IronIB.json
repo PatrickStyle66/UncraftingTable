@@ -1,0 +1,20 @@
+{
+    	"format_version": 1.12,
+    	"minecraft:recipe_shapeless": {
+    		"description": {
+    			"identifier": "minecraft:iron_from_boots"
+    		},
+    		"tags": [
+    			"uncraftingtable"
+    		],
+    		"ingredients":[
+    			{
+    				"item": "minecraft:iron_boots"
+    			}
+    		],
+    		"result": {
+    			"item": "minecraft:iron_ingot",
+    			"count": 4
+    		}
+    	}
+    }
